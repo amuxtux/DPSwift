@@ -4,4 +4,4 @@ design patterns in swift , https://www.amazon.in/dp/B0733NXKNW/ref=sr_1_1?s=digi
 How to run
 
 Just import the xcocde project 
-and in Main.swift , uncomment the function you want to test
+and in Main.swift , uncomment the function you want to test and run it
